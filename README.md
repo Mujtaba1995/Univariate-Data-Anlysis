@@ -1,1 +1,1 @@
-# Univariate-Data-Anlysis
+# Univariate-Data-Analysis
